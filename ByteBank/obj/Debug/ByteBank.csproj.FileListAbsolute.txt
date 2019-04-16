@@ -1,0 +1,7 @@
+C:\Users\bruno.costa\Documents\Logicas\code\CSharp3\csharppoo3-aula3\ByteBank\bin\Debug\ByteBank.exe.config
+C:\Users\bruno.costa\Documents\Logicas\code\CSharp3\csharppoo3-aula3\ByteBank\bin\Debug\ByteBank.exe
+C:\Users\bruno.costa\Documents\Logicas\code\CSharp3\csharppoo3-aula3\ByteBank\bin\Debug\ByteBank.pdb
+C:\Users\bruno.costa\Documents\Logicas\code\CSharp3\csharppoo3-aula3\ByteBank\obj\Debug\ByteBank.csprojResolveAssemblyReference.cache
+C:\Users\bruno.costa\Documents\Logicas\code\CSharp3\csharppoo3-aula3\ByteBank\obj\Debug\ByteBank.csproj.CoreCompileInputs.cache
+C:\Users\bruno.costa\Documents\Logicas\code\CSharp3\csharppoo3-aula3\ByteBank\obj\Debug\ByteBank.exe
+C:\Users\bruno.costa\Documents\Logicas\code\CSharp3\csharppoo3-aula3\ByteBank\obj\Debug\ByteBank.pdb
